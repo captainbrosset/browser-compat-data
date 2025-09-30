@@ -217,7 +217,9 @@
                 "version_added": "115"
               },
               "chrome_android": "mirror",
-              "edge": "mirror",
+              "edge": {
+                "version_added": false
+              },
               "firefox": {
                 "version_added": false
               },
